@@ -17,12 +17,12 @@ Je suis également fondateur de [dwap.fr](https://dwap.fr), un service dédié �
 
 ---
 
-## Projets en cours
+<!-- ## Projets en cours
 
 Les projets présentés ici sont issus de mes travaux personnels.  
 Ils reflètent mon approche de la conception logicielle, ma rigueur technique et mon engagement pour des solutions adaptées aux besoins réels.
 
-- 🔹 [NomDuProjet](https://github.com/bertrand-dwap/NomDuProjet) – Description succincte à insérer
+- 🔹 [NomDuProjet](https://github.com/bertrand-dwap/NomDuProjet) – Description succincte à insérer -->
 
 ---
 
