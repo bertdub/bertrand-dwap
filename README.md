@@ -23,6 +23,7 @@ Les projets présentés ici sont issus de mes travaux personnels.
 Ils reflètent mon approche de la conception logicielle, ma rigueur technique et mon engagement pour des solutions adaptées aux besoins réels.
 
 - 🔹 [Recurring](https://github.com/bertrand-dwap/recurring) – Webapp légère en PHP/Symfony pour la gestion de tâches récurrentes avec interface simple et élégante.
+- 🔹 [Logigramme](https://github.com/bertrand-dwap/logigramme) – Webapp permettant de créer, modifier, sauvegarder et exporter des logigrammes (diagrammes de décision) de manière interactive.
 
 ---
 
